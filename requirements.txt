@@ -1,0 +1,4 @@
+html2text        >=  2020.1.16
+Mastodon.py      >=  1.5.2
+matrix-nio[e2e]  >=  0.20.1
+requests         >=  2.28.1
